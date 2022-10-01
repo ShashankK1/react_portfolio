@@ -6,7 +6,7 @@ import Glasses from "../../img/glasses.png";
 import Humble from "../../img/humble.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './resume.pdf';
+
 
 const Services = () => {
   // context
@@ -31,7 +31,7 @@ const Services = () => {
           <br />
           Having experience in frontend and backend
         </span>
-        <a href={Resume} download>
+        <a href="https://drive.google.com/drive/folders/14GruTivKaquhKTdYcrNVrSxNddOcR_Nt?usp=sharing">
           <button className="button s-button">Download CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
