@@ -31,7 +31,7 @@ const Services = () => {
           <br />
           Having experience in frontend and backend
         </span>
-        <a href="https://bit.ly/shashankk-resume">
+        <a href="https://bit.ly/shashankk-resume" target="_blank" rel="noreferrer">
           <button className="button s-button">Download CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
